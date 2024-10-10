@@ -1,14 +1,14 @@
-# Привет! 👋 Я Frontend-разработчик
+# Hello! 👋 I am a Frontend Developer
 
 ![Hello!](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-Меня зовут Эмран, и я специализируюсь на разработке современных, адаптивных и интерактивных веб-приложений. Мне нравится создавать красивые и эффективные интерфейсы, следуя лучшим практикам веб-разработки.
+My name is Emran, and I specialize in developing modern, responsive, and interactive web applications. I enjoy creating beautiful and efficient interfaces while following the best practices of web development.
 
 ---
 
-## 🚀 Мои ключевые навыки
+## 🚀 My Key Skills
 
-### Языки и фреймворки:
+### Languages and Frameworks:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -19,7 +19,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
 
-### Инструменты и технологии:
+### Tools and Technologies:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
@@ -28,22 +28,22 @@
 
 ---
 
-## 🌱 Сейчас изучаю
-- **Redux Toolkit** для упрощенного управления состоянием
-- **Node.js** и создание серверной логики для взаимодействия с фронтендом
-- **GraphQL** и **MongoDB** для более эффективной работы с данными и хранения
+## 🌱 Currently Learning
+- **Redux Toolkit** for simplified state management
+- **Node.js** and backend logic creation to interact with frontend
+- **GraphQL** and **MongoDB** for more efficient data handling and storage
 
 ---
 
-## 📫 Как связаться со мной
+## 📫 How to Contact Me
 
-### Присоединяйся в сеть профессионалов
-
-- [LinkedIn](https://www.linkedin.com/in/emran-patdyyew-886743230) 
+### Connect with me on:
+- [LinkedIn](https://www.linkedin.com/in/emran-patdyyew-886743230)
 - [Telegram](https://t.me/Emran20040810)
+
 ---
 
-### 🎯 Цели на 2024-2025 год:
-- Улучшить навыки работы с **GraphQL** и **MongoDB**
-- Освоить **NestJS** для построения эффективных серверных приложений
-- Принять участие в нескольких open-source проектах
+### 🎯 Goals for 2024-2025:
+- Improve skills in **GraphQL** and **MongoDB**
+- Master **NestJS** for building efficient backend applications
+- Contribute to several open-source projects
