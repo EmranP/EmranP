@@ -2,7 +2,7 @@
 
 Hello! 👋 I am a Frontend Developer
 
-
+![Hello!](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 My name is Emran, and I specialize in developing modern, responsive, and interactive web applications. I enjoy creating beautiful and efficient interfaces while following the best practices of web development.
 
