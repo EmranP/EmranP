@@ -36,43 +36,11 @@ Languages and Frameworks:
 
 💼 Work Experience
 
-Internship: Frontend and Mobile Developer at Pavepo
-
-Role: Began as a Frontend Developer, transitioned to Mobile Development using React Native.
-
-Project: Developed a mobile version of a web platform for enterprise analysis, tracking client statistics, and enabling crypto wallet functionality.
-
-Tech Stack: React, React Native, TypeScript.
-
-Team Contribution: Worked collaboratively to create a seamless experience across web and mobile platforms.
-
-
-Frontend Developer at Jussplay
-
-Currently employed and contributing to frontend development using modern tools and frameworks.
-
-
-
----
-
-🎓 Education
-
-Results-University
-
-Currently pursuing a comprehensive program covering Frontend, Backend, and Fullstack development.
-
-
-
----
-
-🌱 Currently Learning
-
-Redux Toolkit for simplified state management
-
-Node.js and backend logic creation to interact with frontend
-
-GraphQL and MongoDB for more efficient data handling and storage
-
+I have been working for the Jussplay campaign for 4 months as a Frontend developer, responsibilities include: 
+ui development, 
+layout, 
+adaptive layout,
+Working with animation and 3D graphics using three js. For animation I use Frame motion && Gsap js.
 
 
 ---
@@ -85,19 +53,7 @@ LinkedIn
 
 Telegram
 
-
-
 ---
 
-🎯 Goals for 2024-2025:
-
-Improve skills in GraphQL and MongoDB
-
-Master NestJS for building efficient backend applications
-
-Contribute to several open-source projects
-
-
----
 
 
