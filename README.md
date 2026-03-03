@@ -1,13 +1,21 @@
 ---
 
-# Привет! 👋 Я Software Developer
+<h1 align="center">Emran — FullStack Developer</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=3B82F6&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Golang;Architecture+%7C+Scalability+%7C+Performance" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello!" />
 </div>
 
-Меня зовут Эмран, и я разрабатываю современные, высокопроизводительные веб-приложения. Мне нравится создавать красивые, удобные и эффективные интерфейсы, следуя передовым практикам веб-разработки.
 
+Я FullStack-разработчик с сильным фронтенд-бэкграундом и системным подходом к backend-разработке.
+Проектирую интерфейсы, которые не разваливаются под нагрузкой, и API, которые не стыдно показывать продакшену.
+
+Фокус: архитектура, масштабируемость, производительность.
+Вектор развития — Go и System Desgin.
 ---
 
 ## 🚀 Основные Навыки
