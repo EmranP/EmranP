@@ -9,70 +9,84 @@
 ## 🚀 Frontend Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,rtk,angular,astro" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,angular,astro,zustand" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" />
 </p>
 
 ### Stack
-- React  
-- Next.js (SSR / ISR)  
-- TypeScript  
-- Redux / RTK  
-- RTK Query  
-- TanStack Query  
-- Zustand  
-- Astro  
-- Angular (base level)  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=astro" />
+  <img src="https://skillicons.dev/icons?i=zustand" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" />
+</p>
 
 ---
 
 ## 🎨 UI & Styling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui" />
-  <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,styledcomponents" />
+  <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="48" />
 </p>
 
-- Tailwind CSS  
-- Sass / SCSS  
-- MUI  
-- Ant Design  
-- Styled Components  
+### Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" />
+  <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="40" />
+</p>
 
 ---
 
 ## 🏗 Backend Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,docker,graphql" />
 </p>
 
-### Stack
-- Node.js  
-- Express  
-- NestJS  
-- PostgreSQL  
-- MongoDB  
-- Prisma / TypeORM  
-- JWT Authentication  
-- WebSocket  
-- GraphQL  
+### ⚙️ NodeJS
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" />
+  <img src="https://cdn.simpleicons.org/typeorm/FF5858" width="40" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" />
+</p>
 
-## ⚙️ Golang — System Development
+### ⚙️ Golang 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go" />
 </p>
 
-- REST API на Go  
+### Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go" />
+</p>
+
+- JWKS Authentication
+- REST API development  
 - Goroutines & Concurrency  
 - Channels  
 - Context management  
 - Graceful shutdown  
 - Clean Architecture  
 - Middleware pattern  
-- PostgreSQL integration  
+- FASTHTTP  
 
 ---
 
