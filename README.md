@@ -1,5 +1,4 @@
 ---
-
 <h1 align="center">Emran — FullStack Developer</h1>
 
 <p align="center">
