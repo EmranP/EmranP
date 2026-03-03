@@ -19,8 +19,6 @@
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" />
 </p>
 
-- Zustand
-
 ---
 
 ## 🎨 UI & Styling
