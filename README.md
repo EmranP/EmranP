@@ -9,7 +9,7 @@
 ## 🚀 Frontend Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,angular,astro" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,rtk,angular,astro" />
 </p>
 
 ### Stack
@@ -108,5 +108,4 @@
 ## 📫 Contact
 
 - LinkedIn  
-- Telegram  
-- GitHub  
+- Telegram 
