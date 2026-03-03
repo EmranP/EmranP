@@ -36,12 +36,13 @@
 
 ## 🏗 Backend Engineering
 
-### ⚙️ NodeJS
+### ⚙️ Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=redis" />
@@ -49,13 +50,6 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" />
   <img src="https://cdn.simpleicons.org/typeorm/FF5858" width="40" />
-</p>
-
-### ⚙️ Golang 
-
-### Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go" />
 </p>
 
 - JWT/JWKS Authentication
@@ -66,7 +60,7 @@
 - Graceful shutdown  
 - Clean Architecture  
 - Middleware pattern  
-- FASTHTTP  
+- FASTHTTP-(Golang)  
 
 ---
 
