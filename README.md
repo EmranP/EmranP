@@ -17,14 +17,6 @@
   <img src="https://skillicons.dev/icons?i=angular" />
   <img src="https://skillicons.dev/icons?i=astro" />
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" />
-</p>
-
----
-
-## 🎨 UI & Styling
-
-### Stack
-<p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=materialui" />
