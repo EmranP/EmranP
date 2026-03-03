@@ -8,11 +8,6 @@
 
 ## 🚀 Frontend Engineering
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,angular,astro,zustand" />
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" />
-</p>
-
 ### Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
@@ -29,11 +24,6 @@
 
 ## 🎨 UI & Styling
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,styledcomponents" />
-  <img src="https://cdn.simpleicons.org/antdesign/0170FE" width="48" />
-</p>
-
 ### Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" />
@@ -46,10 +36,6 @@
 ---
 
 ## 🏗 Backend Engineering
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,docker,graphql" />
-</p>
 
 ### ⚙️ NodeJS
 
@@ -64,21 +50,16 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" />
   <img src="https://cdn.simpleicons.org/typeorm/FF5858" width="40" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" />
 </p>
 
 ### ⚙️ Golang 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go" />
-</p>
 
 ### Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go" />
 </p>
 
-- JWKS Authentication
+- JWT/JWKS Authentication
 - REST API development  
 - Goroutines & Concurrency  
 - Channels  
