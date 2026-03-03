@@ -16,9 +16,10 @@
   <img src="https://skillicons.dev/icons?i=redux" />
   <img src="https://skillicons.dev/icons?i=angular" />
   <img src="https://skillicons.dev/icons?i=astro" />
-  <img src="https://skillicons.dev/icons?i=zustand" />
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" />
 </p>
+
+- Zustand
 
 ---
 
