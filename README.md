@@ -8,7 +8,8 @@
 
 ## 🚀 Frontend Engineering
 
-### Stack
+### ⚙️ Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=nextjs" />
