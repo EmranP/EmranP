@@ -1,12 +1,12 @@
-<h1 align="center">Emran — FullStack Developer</h1>
+<h1 align="center">Emran — Software Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=3B82F6&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Golang;Architecture+%7C+Scalability+%7C+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=3B82F6&center=true&vCenter=true&width=600&lines=Golang+%7C+Node.js;React+%7C+Next.js+%7C+TypeScript;Architecture+%7C+Scalability+%7C+Performance" />
 </p>
 
 ---
 
-## 🚀 Frontend Engineering
+## 🚀 Frontend
 
 ### ⚙️ Stack
 
@@ -27,15 +27,15 @@
 
 ---
 
-## 🏗 Backend Engineering
+## 🏗 Backend
 
 ### ⚙️ Stack
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
-  <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=redis" />
@@ -72,16 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmranP&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Focus
-
-- Scalable frontend architecture  
-- High-performance backend systems  
-- Strong typing & predictable code  
-- Engineering over hype  
+</p>  
 
 ---
 
